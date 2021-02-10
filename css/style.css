@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.display{
+    min-height: 100px;
+    background: navy;
+    color: white;
+
+}
+.display h2{
+    display: inline-block;
+    vertical-align: top;
+}
+.display p{
+    display:inline-block;
+    width: 300px; 
+    padding: 10px;
+    border: 1px solid black;
+}
+.none{
+    display: none;
+}
+.container{
+	min-height: 250px;
+	background: #8c8c8c;
+	overflow: hidden;
+}
+.padding{
+	width: 28%;
+  	height: 200px;
+    background: #979494;
+    float: left;
+    margin: 15px 11px;
+    padding: 8px 15px;
+    color: white;
+    text-align: justify;
+}
+.wrapper{
+    text-align: center;
+    background: #697380;
+    color: white;
+    margin-top: 10px;
+}
+.wrapper h2{
+    margin-bottom: 10px;
+}
+img{
+    width:325px;
+    height: 300px;
+}
+form{
+    background: black;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    overflow: hidden;
+
+}
+.Contuct input{
+    padding: 10px;
+    margin-top: 9px;
+    margin-left: 9px;
+    border: none;
+}
+
+textarea{
+    margin-top: 10px;
+}
+button{
+    padding: 10px 15px;
+    background: green;
+    border: none;
+    color:white;
+    margin-top: 10px;
+}
